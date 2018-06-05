@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7495-8734
+
+ Directory of C:\Users\Ankush_PC\eclipse-workspace\javaProject2\src\javaProject2
+
+06/06/2018  12:59 AM    <DIR>          .
+06/06/2018  12:59 AM    <DIR>          ..
+06/06/2018  12:59 AM               438 HelloWorld.class
+06/06/2018  12:20 AM               146 HelloWorld.java
+06/06/2018  12:59 AM                 0 newfile.txt
+               3 File(s)            584 bytes
+               2 Dir(s)  54,973,067,264 bytes free
